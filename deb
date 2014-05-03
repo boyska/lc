@@ -1,0 +1,17 @@
+# Source: <source package name; defaults to package name>
+Section: misc
+Priority: optional
+Homepage: http://generators.christopherpound.com/
+
+Package: lc
+Version: 0.1
+Maintainer: boyska <piuttosto@logorroici.org>
+Depends: python
+Files: lc.py /usr/bin/
+  en-firstnames.txt /usr/share/lc/
+  it-firstnames.txt /usr/share/lc/
+
+Description: Language confluxer
+ The language confluxer is a word generator.
+ It takes a list of words (a dictionary) and generates new words.
+ This package contains some simple wordlists.
