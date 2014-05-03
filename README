@@ -1,0 +1,6 @@
+This is the language confluxer, from Chris Pound.
+
+To run it, python2 >= 2.5 is all you need.
+
+To package, just do
+    equivs-build deb
