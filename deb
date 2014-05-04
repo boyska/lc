@@ -7,7 +7,6 @@ Package: lc
 Version: 0.1
 Maintainer: boyska <piuttosto@logorroici.org>
 Depends: python
-Copyright: MIT
 Files: lc.py /usr/bin/
   en-firstnames.txt /usr/share/lc/
   it-firstnames.txt /usr/share/lc/
